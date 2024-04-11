@@ -1,5 +1,5 @@
 # Disaster Response Pipeline Project
-
+![alt text](helicopter.jpg)
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -19,3 +19,6 @@
 3. Run your web app: `python run.py`
 
 4. Click the `PREVIEW` button to open the homepage
+
+Screenshot of app:
+![alt text](Screenshot_app.png)
