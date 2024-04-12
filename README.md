@@ -2,7 +2,7 @@
 ![alt text](helicopter.jpg)
 
 ### Summary
-This project analyzes disaster data from [Appen](https://www.appen.com/) (formerly Figure 8) to build a model for an API that classifies disaster messages.
+This project analyses disaster data from [Appen](https://www.appen.com/) (formerly Figure 8) to build a model for an API that classifies disaster messages.
 
 The data set containing real messages that were sent during disaster events. I create a machine learning pipeline to categorize these events so that messages can be sent to an appropriate disaster relief agency.
 
