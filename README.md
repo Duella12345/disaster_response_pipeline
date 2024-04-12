@@ -8,6 +8,28 @@ The data set containing real messages that were sent during disaster events. I c
 
 The project includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app also displays visualizations of the data.
 
+## Files in Repository
+ - Root Directory
+    - app (files relating to the application, visualisations and new predictions from model)
+        - templates
+            - go.html
+            - master.html
+        - run.py
+    - data (data files)
+        - categories.csv
+        - messages.csv
+    - notebooks (notebooks used in developing the scripts plus db for testing these)
+        - DisasterResponse.db
+        - ETL Pipeline Preparation.ipynb
+        - ML Pipeline Preparation. ipynb
+    - classifier.pkl (model file)
+    - DisasterResponse.db (sqlite database)
+    - helicopter.jpg (image for readme)
+    - process_data.py (ETL script)
+    - README.md
+    - Screenshot_app.png (sceenshot of app for readme)
+    - train_classifier.py (classifier training script)
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
